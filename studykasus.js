@@ -14,8 +14,10 @@ for (let i = 0; i < platNomor.length; i++) {
         switch (sisa) {
             case 0 :
                 console.log(`Plat ${platNomor[i]} ini adalah GENAP`)
+                break;
             case 1 :
                 console.log(`Plat ${platNomor[i]} ini adalah GANJIL`)
+                break;
             
         }
 
